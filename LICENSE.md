@@ -1,5 +1,8 @@
-Copyright © 2016, The Project Cognoma developers
-All rights reserved.
+# BSD 3-Clause License
+
+_Copyright © 2016, The Project Cognoma developers_
+<br>
+_All rights reserved._
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
