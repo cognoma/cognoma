@@ -16,7 +16,7 @@ Thanks everyone who attended. The response, excitement, and diverse talents were
 + a list of skillsets needed
 + a higher-level description of project goals
 
-Check back here for more details. In the meantime, feel free to open issues with feedback, suggestions, or questions. This is a community oriented project, so don't hesitate to chime in — you can [introduce yourself here](https://github.com/greenelab/cognoma/issues/2 "Issue #2: Introduce yourself here to get involved").
+Check back here for more details. In the meantime, feel free to open issues with feedback, suggestions, or questions. This is a community oriented project, so don't hesitate to chime in — you can [introduce yourself here](https://github.com/cognoma/cognoma/issues/2 "Issue #2: Introduce yourself here to get involved").
 
 ## Project Components
 
