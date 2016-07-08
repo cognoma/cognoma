@@ -10,11 +10,9 @@ We use GitHub Issues for a wide range of tasks including bug reports, feature re
 
 ## Pull Requests
 
-Project Cognoma operates on a pull request model. All changes should be submitted via [pull request](https://help.github.com/articles/using-pull-requests/ "GitHub · Using pull requests"). Component projects (e.g. `cognoma/django-cognoma`) may define their own pull request models to facilitate emergency fixes if required.
- We also encourage you to comment on and review open pull requests.
+Project Cognoma operates on a pull request model. All changes should be submitted via [pull request](https://help.github.com/articles/using-pull-requests/ "GitHub · Using pull requests"). Component projects (e.g. `cognoma/django-cognoma`) may define their own pull request models to facilitate emergency fixes if required. We also encourage you to comment on and review open pull requests.
 
 To keep the commit history clean, we may ask you to [rebase your pull request](https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request "How to Rebase a Pull Request") or squash certain commits. If you don't know what this means, we'll help you through the process.
-
 
 **Happy Contributing!**
 
