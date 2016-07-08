@@ -6,7 +6,7 @@ Project Cognoma is collaborative project between the [Greene Lab](http://www.gre
 
 ## July 12 Hack Night
 
-On Tuesday July 12, we'll be at the Code for Philly Hack Night ([meetup](https://www.meetup.com/Code-for-Philly/events/232120977/ "Code for Philly Hack Night on Meetup")). We hope to work on project planning and begin assembling teams.
+On Tuesday July 12, we'll be at Industrious from 6:00–8:30 PM for a Datathon Hack Night ([details](https://www.meetup.com/DataPhilly/events/232470548/ "Datathon Hack Night")). The meetup will focus on project planning and team assembly.
 
 ## July 5 Meetup Recap
 
