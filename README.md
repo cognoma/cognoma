@@ -6,7 +6,7 @@ Project Cognoma is collaborative project between the [Greene Lab](http://www.gre
 
 ## July 12 Hack Night
 
-On Tuesday July 12, we'll be at Industrious from 6:00–8:30 PM for a Datathon Hack Night ([details](https://www.meetup.com/DataPhilly/events/232470548/ "Datathon Hack Night")). The meetup will focus on project planning and team assembly.
+On Tuesday July 12, we'll be at Industrious from 6:00–8:30 PM for a Datathon Hack Night ([details](https://www.meetup.com/DataPhilly/events/232470548/ "Datathon Hack Night")). Industrious is located on the 17th floor of [230 S Broad Street](https://goo.gl/maps/Anoo4SUE9At "Industrious on Google Maps"). The meetup will focus on project planning and team assembly.
 
 ## July 5 Meetup Recap
 
