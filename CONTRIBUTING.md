@@ -14,6 +14,12 @@ Project Cognoma operates on a pull request model. For the `cognoma/cognoma` repo
 
 To keep the commit history clean, we may ask you to [rebase your pull request](https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request "How to Rebase a Pull Request") or squash certain commits. If you don't know what this means, we'll help you through the process.
 
+## Peer Review
+
+All pull requests undergo peer review in which project participants review the changes. Reviewers may suggest modifications or even note their disapproval. Reviewers can note their approval by commenting along the lines of ":+1:", "looks good to me", or "approved". As a reviewer, it's helpful to note the type of review you performed: did you test the code, look it over, or are you just supporting the concept?
+
+Before a repository maintainer merges a pull request, there must be at least one affirmative review. If there is any unaddressed criticism or disapproval, a repository maintainer will determine how to proceed and may wait for additional feedback.
+
 **Happy contributing!**
 
 ***
