@@ -4,9 +4,13 @@ _Putting machine learning in the hands of cancer biologists._
 
 Project Cognoma is collaborative project between the [Greene Lab](http://www.greenelab.com/), the [DataPhilly](http://www.meetup.com/DataPhilly/) & the [Code for Philly](https://codeforphilly.org/) meetups, and anyone else who would like to participate. We're building a web application that will give cancer biologists an easy way to build and apply machine learning models.
 
-## July 19 Hack Night
+## July 26 Hack Night
 
-On Tuesday July 19, we're [meeting up](https://www.meetup.com/DataPhilly/events/232591931/ "DataPhilly Meetup Details") at CandiDate (Floor 17 of [230 S Broad Street](https://goo.gl/maps/Anoo4SUE9At "Industrious on Google Maps")) from 6:00–8:30 PM.
+On Tuesday July 26, we're [meeting up](https://www.meetup.com/DataPhilly/events/232785717/ "DataPhilly Meetup Details") at CandiDate (Floor 17 of [230 S Broad Street](https://goo.gl/maps/Anoo4SUE9At "Industrious on Google Maps")) from 6:00–8:30 PM. This meetup will split into groups and focus on making sure everyone leaves with a task they can work on. **There _will not_ be hack nights on August 2 or August 9**, so this will be the last hack night for a few weeks.
+
+## July 19 Meetup Recap
+
+On Tuesday July 19, we had a [meetup](https://www.meetup.com/DataPhilly/events/232591931/ "DataPhilly Meetup Details"), where we [played with git/GitHub](https://github.com/cognoma/sandbox "cognoma/sandbox repository: Mess around and learn git/GitHub") and teams began to define deliverables.
 
 ## July 12 Meetup Recap
 
