@@ -36,6 +36,6 @@ Check back here for more details. In the meantime, feel free to open issues with
 
 ## Implementation Details
 
-We're beginning to flesh out implementation details. Discuss the software architecture in [Issue 5](https://github.com/cognoma/cognoma/issues/5 "Issue #5: Designing the software architecture for Project Cognoma") and technical ideas in [Issue 4](https://github.com/cognoma/cognoma/issues/4 "Issue #4: Technical Ideas"). The following diagram is a draft of the project's software architecture:
+We're beginning to flesh out implementation details. Discuss the software architecture in [Issue 5](https://github.com/cognoma/cognoma/issues/5 "Issue #5: Designing the software architecture for Project Cognoma") and technical ideas in [Issue 4](https://github.com/cognoma/cognoma/issues/4 "Issue #4: Technical Ideas"). The following diagram is the current draft of the project's software architecture:
 
-![Diagram of the Cognoma software architecture](components.png?raw=true)
+![Diagram of the Cognoma software architecture](architecture.png?raw=true)
