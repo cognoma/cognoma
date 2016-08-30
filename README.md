@@ -4,27 +4,33 @@ _Putting machine learning in the hands of cancer biologists._
 
 Project Cognoma is collaborative project between the [Greene Lab](http://www.greenelab.com/), the [DataPhilly](http://www.meetup.com/DataPhilly/) & the [Code for Philly](https://codeforphilly.org/) meetups, and anyone else who would like to participate. We're building a web application that will give cancer biologists an easy way to build and apply machine learning models.
 
-## August 23 Hack Night
+## Hack Night Meetups
 
-On Tuesday August 23, we're [meeting up](https://www.meetup.com/DataPhilly/events/233403001/ "DataPhilly Meetup Details") at CandiDate (Floor 17 of [230 S Broad Street](https://goo.gl/maps/Anoo4SUE9At "Industrious on Google Maps")) from 6:00–8:30 PM.
+### September 6
 
-## August 9 Hack Night Recap
+On Tuesday September 6, we're [meeting up](https://www.meetup.com/DataPhilly/events/233403039/ "DataPhilly Meetup Details") at CandiDate (Floor 17 of [230 S Broad Street](https://goo.gl/maps/Anoo4SUE9At "Industrious on Google Maps")) from 6:00–8:30 PM.
+
+### August 23
+
+On Tuesday August 23, we had a [meetup](https://www.meetup.com/DataPhilly/events/233403001/ "DataPhilly Meetup Details"). Refer to specific Project Cognoma [repositories](https://github.com/cognoma) for details.
+
+### August 9
 
 On Tuesday August 9, we had a [meetup](https://www.meetup.com/DataPhilly/events/233070705/ "DataPhilly Meetup Details"). For those still learning how to contribute on GitHub, check out @stephenshank's [tutorial](https://youtu.be/oKlW_dSUrb8 "YouTube Video by Stephen Shank: DataPhilly/Cognoma - Submitting a pull request using Git and Github") and accompanying [pull request](https://github.com/cognoma/cognoma.github.io/pull/1 "cognoma/cognoma.github.io#1: Pull request to add favicon"). We're still looking for more community involvement in reviewing open pull requests.
 
-## July 26 Hack Night Recap
+### July 26
 
 On Tuesday July 26, we had a [meetup](https://www.meetup.com/DataPhilly/events/232785717/ "DataPhilly Meetup Details") that split into groups and focused on making sure everyone left with a task they could work on. Thanks [everyone who contributed](https://github.com/cognoma/cognoma/issues/23 "Issue #23: July 19–26 Project Cognoma Acknowledgements") in the week leading up to this event.
 
-## July 19 Meetup Recap
+### July 19
 
 On Tuesday July 19, we had a [meetup](https://www.meetup.com/DataPhilly/events/232591931/ "DataPhilly Meetup Details"), where we [played with git/GitHub](https://github.com/cognoma/sandbox "cognoma/sandbox repository: Mess around and learn git/GitHub") and teams began to define deliverables.
 
-## July 12 Meetup Recap
+### July 12
 
 On July 12, CandiDate hosted a [hack night](https://www.meetup.com/DataPhilly/events/232470548/ "Datathon Hack Night") for Project Cognoma. The meetup focused on project planning and team assembly. See the [slides](http://slides.com/dhimmel/cognomathon "Presentation slides") and [notes](https://docs.google.com/document/d/1QoLZwTmMhvu_tv3SO4bA3-XomV1y5BR0CWhh833cuDQ/edit "Google Drive Document") for more information.
 
-## July 5 Meetup Recap
+### July 5
 
 On July 5, we hosted a [datathon workshop](http://www.meetup.com/DataPhilly/events/232137908/"DataPhilly & Code for Python July 5 Datathon Meetup") introducing Neo4j and this project. [**@gwaygenomics**](https://github.com/gwaygenomics "Greg Way on GitHub") presented the biological motivation behind Project Cognoma ([slides](https://www.dropbox.com/s/4btewka0icgse4f/DatathonWorkshop_5July2016_Final.pptx?dl=0)) and [**@dhimmel**](https://github.com/dhimmel "Daniel Himmelstein on GitHub") discussed Hetionet and the Cypher query language ([slides](http://slides.com/dhimmel/datathon)).
 
