@@ -39,9 +39,9 @@ We hold project meetups. Our usual meeting spot is at Industrious (where CandiDa
 
 Cognoma relies on our generous community maintainers. Thanks to the following maintainers for their help:
 
-+ **Cancer Data**: Claire McLeod (@clairemcleod)
-+ **Machine Learning**: Yichuan Liu (@yl565)
-+ **Backend**: Andrew Madonna (@awm33), Derek Goss (@dcgoss), Alan Elkner (@aelkner)
-+ **Frontend**: Bonnie DiPasquale (@bvasko), Benjamin Dolly (@bdolly)
-+ **Community**: Karin Wolok (@KarinSpiderwoman)
-+ **Wildcards**: Gregory Way (@gwaygenomics), Casey Greene (@cgreene), Daniel Himmelstein (@dhimmel)
++ **Cancer Data**: Claire McLeod ([@**clairemcleod**](https://github.com/clairemcleod))
++ **Machine Learning**: Yichuan Liu ([@**yl565**](https://github.com/yl565))
++ **Backend**: Andrew Madonna ([@**awm33**](https://github.com/awm33)), Derek Goss ([@**dcgoss**](https://github.com/dcgoss)), Alan Elkner ([@**aelkner**](https://github.com/aelkner))
++ **Frontend**: Bonnie DiPasquale ([@**bvasko**](https://github.com/bvasko)), Benjamin Dolly ([@**bdolly**](https://github.com/bdolly))
++ **Community**: Karin Wolok ([@**KarinSpiderwoman**](https://github.com/KarinSpiderwoman))
++ **Wildcards**: Gregory Way ([@**gwaygenomics**](https://github.com/gwaygenomics)), Casey Greene ([@**cgreene**](https://github.com/cgreene)), Daniel Himmelstein ([@**dhimmel**](https://github.com/dhimmel))
