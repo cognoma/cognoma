@@ -10,7 +10,7 @@ The project is composed of four teams with their own corresponding repositories:
 
 | Team Name | Repositories | Description |
 |-----------|--------------|-------------|
-| Cancer Data | [`cancer-data`](https://github.com/cognoma/cancer-data) | processing the underlying cancer data to the formats required for this project. See . |
+| Cancer Data | [`cancer-data`](https://github.com/cognoma/cancer-data) | processing the underlying cancer data to the formats required for this project. |
 | Machine Learning | [`machine-learning`](https://github.com/cognoma/machine-learning) | building classifiers to predict mutation status from gene expression data. |
 | Backend | [`django-cognoma`](https://github.com/cognoma/django-cognoma), [`task-service`](https://github.com/cognoma/task-service) | creating the infrastructure to power the webapp and glue the components together. |
 | Frontend | [`frontend`](https://github.com/cognoma/frontend), [`cognoma.github.io`](https://github.com/cognoma/cognoma.github.io) | building the webapp that users interact with. |
@@ -25,19 +25,23 @@ We hold project meetups. Our usual meeting spot is at Industrious (where CandiDa
 
 | 📅 Date | ⌚ Time | 🗺 Location | ℹ️ Meetup Details | 💰 Sponsor |
 |--------|---------|-----------|-----------|-------------|
-| Monday, September 19, 2016 | 6:00 PM | CandiDate | [DataPhilly](https://www.meetup.com/DataPhilly/events/234124464/) | Penn Institute for Biomedical Informatics |
-| ~~Tuesday, September 6, 2016~~ | 6:00 PM | CandiDate | [DataPhilly](https://www.meetup.com/DataPhilly/events/233403039/) | Penn Institute for Biomedical Informatics |
-| ~~Tuesday, August 23, 2016~~ | 6:00 PM | CandiDate | [DataPhilly](https://www.meetup.com/DataPhilly/events/233403001/) | Penn Institute for Biomedical Informatics |
-| ~~Tuesday, August 9, 2016~~ | 6:00 PM | CandiDate | [DataPhilly](https://www.meetup.com/DataPhilly/events/233070705/) | Penn Institute for Biomedical Informatics |
-| ~~Tuesday, July 26, 2016~~ | 6:00 PM | CandiDate | [DataPhilly](https://www.meetup.com/DataPhilly/events/232785717/) | Penn Institute for Biomedical Informatics |
-| ~~Tuesday, July 19, 2016~~ | 6:00 PM | CandiDate | [DataPhilly](https://www.meetup.com/DataPhilly/events/232591931/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
-| ~~Tuesday, July 12, 2016~~ | 6:00 PM | CandiDate | [DataPhilly](https://www.meetup.com/DataPhilly/events/232470548/) | MilkBoy |
+| Monday, September 19, 2016 | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/234124464/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
+| ~~Tuesday, September 6, 2016~~ | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/233403039/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
+| ~~Tuesday, August 23, 2016~~ | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/233403001/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
+| ~~Tuesday, August 9, 2016~~ | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/233070705/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
+| ~~Tuesday, July 26, 2016~~ | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/232785717/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
+| ~~Tuesday, July 19, 2016~~ | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/232591931/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
+| ~~Tuesday, July 12, 2016~~ | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/232470548/) | [MilkBoy](http://www.milkboyphilly.com/) |
 | ~~Tuesday, July 5, 2016~~ | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/232137908/) | [Neo Technology](https://neo4j.com/) |
-| ~~Tuesday, June 28, 2016~~ | 6:00 PM | MilkBoy | [DataPhilly](https://www.meetup.com/DataPhilly/events/230814092/) / [Code for Philly](http://www.meetup.com/Code-for-Philly/events/230802415/) | [MilkBoy](http://www.milkboyphilly.com/) |
+| ~~Tuesday, June 28, 2016~~ | 6:00 PM | [MilkBoy](http://www.milkboyphilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/230814092/) / [Code for Philly](http://www.meetup.com/Code-for-Philly/events/230802415/) | [MilkBoy](http://www.milkboyphilly.com/) |
+
+## Contributing
+
+Community contributions are the driving force behind Cognoma. See the [guidelines for contributing](`CONTRIBUTING.md`) for more information.
 
 ## Maintainers
 
-Cognoma relies on our generous community maintainers. Thanks to the following maintainers for their help:
+Cognoma relies on our generous community maintainers to assist with contributions. Thanks to the following maintainers for their help:
 
 + **Cancer Data**: Claire McLeod ([@**clairemcleod**](https://github.com/clairemcleod))
 + **Machine Learning**: Yichuan Liu ([@**yl565**](https://github.com/yl565))
