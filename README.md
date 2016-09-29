@@ -40,6 +40,10 @@ We hold project meetups. Our usual meeting spot is at Industrious (where CandiDa
 
 Community contributions are the driving force behind Cognoma. See the [guidelines for contributing](`CONTRIBUTING.md`) for more information.
 
+Below you can see contributions by individual for each Cognoma repository:
+
+![Heatmap](contrib/contribution-heatmap.png) 
+
 ## Maintainers
 
 Cognoma relies on our generous community maintainers to assist with contributions. Thanks to the following maintainers for their help:
