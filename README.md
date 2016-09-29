@@ -38,11 +38,11 @@ We hold project meetups. Our usual meeting spot is at Industrious (where CandiDa
 
 ## Contributing
 
-Community contributions are the driving force behind Cognoma. See the [guidelines for contributing](`CONTRIBUTING.md`) for more information.
+Community contributions are the driving force behind Cognoma. The heatmap below shows which users have contributed to which repositories:
 
-Below you can see contributions by individual for each Cognoma repository:
+![Contribution Heatmap](contrib/contribution-heatmap.png "Intensity shows the number of contributions") 
 
-![Heatmap](contrib/contribution-heatmap.png) 
+See the [guidelines for contributing](`CONTRIBUTING.md`) for more information.
 
 ## Maintainers
 
