@@ -38,7 +38,11 @@ We hold project meetups. Our usual meeting spot is at Industrious (where CandiDa
 
 ## Contributing
 
-Community contributions are the driving force behind Cognoma. See the [guidelines for contributing](`CONTRIBUTING.md`) for more information.
+Community contributions are the driving force behind Cognoma. The heatmap below shows which users have contributed to which repositories:
+
+![Contribution Heatmap](contrib/contribution-heatmap.png "Intensity shows the number of contributions") 
+
+See the [guidelines for contributing](`CONTRIBUTING.md`) for more information.
 
 ## Maintainers
 
@@ -47,6 +51,6 @@ Cognoma relies on our generous community maintainers to assist with contribution
 + **Cancer Data**: Claire McLeod ([@**clairemcleod**](https://github.com/clairemcleod))
 + **Machine Learning**: Yichuan Liu ([@**yl565**](https://github.com/yl565))
 + **Backend**: Andrew Madonna ([@**awm33**](https://github.com/awm33)), Derek Goss ([@**dcgoss**](https://github.com/dcgoss)), Alan Elkner ([@**aelkner**](https://github.com/aelkner))
-+ **Frontend**: Bonnie DiPasquale ([@**bvasko**](https://github.com/bvasko)), Benjamin Dolly ([@**bdolly**](https://github.com/bdolly))
++ **Frontend**: Benjamin Dolly ([@**bdolly**](https://github.com/bdolly))
 + **Community**: Karin Wolok ([@**KarinSpiderwoman**](https://github.com/KarinSpiderwoman))
 + **Wildcards**: Gregory Way ([@**gwaygenomics**](https://github.com/gwaygenomics)), Casey Greene ([@**cgreene**](https://github.com/cgreene)), Daniel Himmelstein ([@**dhimmel**](https://github.com/dhimmel))
