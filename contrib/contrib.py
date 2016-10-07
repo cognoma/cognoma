@@ -69,7 +69,7 @@ plt.yticks(color='#3f3f3f')
 plt.ylabel('')
 plt.xlabel('')
 fig = ax.get_figure()
-fig.set_size_inches(w=8, h=2.5)
+fig.set_size_inches(w=8, h=2.75)
 fig.savefig('contribution-heatmap.png', dpi=200, bbox_inches='tight')
 fig.savefig('contribution-heatmap.svg', bbox_inches='tight')
 
