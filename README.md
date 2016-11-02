@@ -25,7 +25,8 @@ We hold project meetups. Our usual meeting spot is at Industrious (where CandiDa
 
 | 📅 Date | ⌚ Time | 🗺 Location | ℹ️ Meetup Details | 💰 Sponsor |
 |--------|---------|-----------|-----------|-------------|
-| Tuesday, November 1, 2016 | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/234971229/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
+| Tuesday, November 15, 2016 | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/235299731/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
+| ~~Tuesday, November 1, 2016~~ | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/234971229/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
 | ~~Tuesday, October 18, 2016~~ | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/234676933/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
 | ~~Tuesday, October 4, 2016~~ | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/234268259/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
 | ~~Monday, September 19, 2016~~ | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/234124464/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
@@ -51,8 +52,8 @@ See the [guidelines for contributing](`CONTRIBUTING.md`) for more information.
 Cognoma relies on our generous community maintainers to assist with contributions. Thanks to the following maintainers for their help:
 
 + **Cancer Data**: Claire McLeod ([@**clairemcleod**](https://github.com/clairemcleod))
-+ **Machine Learning**: Yichuan Liu ([@**yl565**](https://github.com/yl565))
-+ **Backend**: Andrew Madonna ([@**awm33**](https://github.com/awm33)), Derek Goss ([@**dcgoss**](https://github.com/dcgoss)), Alan Elkner ([@**aelkner**](https://github.com/aelkner))
++ **Machine Learning**: Jesse Prestwood-Taylor ([@**jessept**](https://github.com/jessept)), Yichuan Liu ([@**yl565**](https://github.com/yl565))
++ **Backend**: Andrew Madonna ([@**awm33**](https://github.com/awm33)), Derek Goss ([@**dcgoss**](https://github.com/dcgoss))
 + **Frontend**: Benjamin Dolly ([@**bdolly**](https://github.com/bdolly))
 + **Community**: Karin Wolok ([@**KarinSpiderwoman**](https://github.com/KarinSpiderwoman))
 + **Wildcards**: Gregory Way ([@**gwaygenomics**](https://github.com/gwaygenomics)), Casey Greene ([@**cgreene**](https://github.com/cgreene)), Daniel Himmelstein ([@**dhimmel**](https://github.com/dhimmel))
