@@ -48,7 +48,7 @@ Community contributions are the driving force behind Cognoma. The heatmap below 
 
 ![Contribution Heatmap](contrib/contribution-heatmap.png "Intensity shows the number of contributions") 
 
-See the [guidelines for contributing](`CONTRIBUTING.md`) for more information.
+See the [guidelines for contributing](CONTRIBUTING.md) for more information.
 
 ## Maintainers
 
