@@ -26,7 +26,7 @@ We hold project meetups. Our usual meeting spot is at Industrious (where CandiDa
 | 📅 Date | ⌚ Time | 🗺 Location | ℹ️ Meetup Details | 💰 Sponsor |
 |--------|---------|-----------|-----------|-------------|
 | Tuesday, January 24, 2017 | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/236857753/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
-| Monday, January 16, 2017 | 6:00 PM |  | Frontend MLK Day | Volunteers from [Think Company](https://www.thinkcompany.com/) |
+| Monday, January 16, 2017 | 6:00 PM | [Think Company](https://www.thinkcompany.com/) | Frontend Only | MLK Day Volunteers from Think Company |
 | ~~Tuesday, January 10, 2017~~ | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/236382207/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
 | ~~Tuesday, December 20, 2016~~ | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/236118502/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
 | ~~Tuesday, December 6, 2016~~ | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/235882962/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
