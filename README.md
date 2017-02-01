@@ -25,7 +25,10 @@ We hold project meetups. Our usual meeting spot is at Industrious (where CandiDa
 
 | 📅 Date | ⌚ Time | 🗺 Location | ℹ️ Meetup Details | 💰 Sponsor |
 |--------|---------|-----------|-----------|-------------|
-| Tuesday, January 31, 2017 | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/237148044/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
+| Tuesday, March 14, 2017 | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | DataPhilly | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
+| Tuesday, February 28, 2017 | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | DataPhilly | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
+| Monday, February 13, 2017 | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/237369158/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
+| ~~Tuesday, January 31, 2017~~ | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/237148044/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
 | ~~Monday, January 16, 2017~~ | 9:00 AM | Philly Think Space | [Frontend Only](https://codeforphilly.org/blog/mlk_day_of_service_with_think_company) | MLK Day Volunteers from [Think Company](https://www.thinkcompany.com/) |
 | ~~Tuesday, January 10, 2017~~ | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/236382207/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
 | ~~Tuesday, December 20, 2016~~ | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/236118502/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
