@@ -32,7 +32,7 @@ This section will describe the pull request workflow.
  We'll use the [`cognoma/sandbox`](https://github.com/cognoma/sandbox) repository, which is designed for practicing this workflow, as an example.
 Finally, let's pretend your GitHub username is `username`.
 
-To create a pull request, you will first to make a change.
+To create a pull request, you will first need to make a change.
 Since you can't write directly to `cognoma/sandbox` or other Cognoma repositories, you'll need [to fork](https://help.github.com/articles/fork-a-repo/) `cognoma/sandbox` through the GitHub interface.
 Forking `cognoma/sandbox` will create `username/sandbox`, a personal copy of the `sandbox` repository on your GitHub.
 
@@ -71,9 +71,11 @@ Let's say you create the file `people/username.md` in your text editor of choice
 Now you will have to stage your change by running:
 
 ```sh
-# Show what changes git detects.
-# Not essential but good practice as it may alert you to an issue.
+# The following two commands show what changes git detects.
+# Since they don't change the repository in any way, they're optional.
+# But it's best practice to look at changes before adding them.
 git status
+git diff
 
 # Add the file you've created
 git add people/username.md
@@ -82,6 +84,15 @@ git add people/username.md
 Next you will have to make a commit, which takes a snapshot of everything that's been staged (using `git add` above).
 To commit, run `git commit`.
 A text editor should appear that allows you to write a [commit message](https://chris.beams.io/posts/git-commit/) where you should describe the changes in the commit.
+Alternatively, you can specify your commit message using the command line:
+
+```sh
+# Specify commit message, no text editor will appear
+# The first --message (-m for short) creates commit message subject
+# and the following --message arguments create the commit message body.
+git commit --message "Add people/username.md" --message "Closes URL_TO_GITHUB_ISSUE"
+```
+
 If all succeeds, you will have added to the git repository and your commit will be visible when you run `git log`.
 
 Next you will push your commit to GitHub, which means add it to `username/sandbox` on GitHub.
@@ -109,7 +120,7 @@ You can add additional changes to a pull request by adding commits to the branch
 Once your pull request passes review, it will be merged by a repository maintainer.
 Before starting on any new pull requests, you will want to sync your fork, so you're not starting from an outdated version of the codebase, by running:
 
-```
+```sh
 # Fetch all new changes on the cognoma repo
 git fetch upstream
 
@@ -117,30 +128,31 @@ git fetch upstream
 git checkout master
 
 # Fast forward your master branch with upstream changes.
-git merge --no-ff upstream/master
+git merge --ff-only upstream/master
 ```
 
 ### Pull request advice
 
 1. Focus a pull request on a single feature.
-Smaller pull requests are easier to review and will be thus get merged quicker.
+Smaller pull requests are easier to review and will thus get merged quicker.
 If you want to change multiple things, create multiple pull requests.
+One feature, one branch, one pull request!
 
 + Open incomplete pull requests but put WIP in the title for "work in progress".
 This enables early stage feedback to save time later and helps coordinate efforts.
 Once you feel the pull request is ready, remove WIP from the title.
 
-+ Please help review open pull requests.
++ Please help **review open pull requests**.
 Even if you don't fully know the topic, the dialogue will often be productive.
 As a reviewer, it's helpful to note the type of review you performed: did you test the code, look it over, or are you just supporting the concept?
 
-+ Repository maintainers are encouraged to squash merge pull requests when appropriate.
-This will compact all of the commits into one, heling keep the commit history clean.
++ Repository maintainers are encouraged to [squash merge](https://help.github.com/articles/about-pull-request-merges/#squash-and-merge-your-pull-request-commits) pull requests when appropriate.
+This will compact all of the commits into one, helping keep the commit history clean.
 
 **Happy contributing!**
 
 ## Maintainers
 
-Maintainers are individuals with commit access to Cognoma repositories, who are responsible for reviewing and merging pull requests.
+Maintainers are individuals with commit access to Cognoma repositories and are responsible for reviewing and merging pull requests.
 In addition, maintainers help keep repositories organized and issues up to date.
 Maintainers are selected based on a sustained, positive history of contribution to Cognoma and mastery of the GitHub-based workflow.
