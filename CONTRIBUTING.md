@@ -137,16 +137,16 @@ git merge --ff-only upstream/master
 Smaller pull requests are easier to review and will thus get merged quicker.
 If you want to change multiple things, create multiple pull requests.
 One feature, one branch, one pull request!
-  
-+ Open incomplete pull requests but put WIP in the title for "work in progress".
+
+2. Open incomplete pull requests but put WIP in the title for "work in progress".
 This enables early stage feedback to save time later and helps coordinate efforts.
 Once you feel the pull request is ready, remove WIP from the title.
   
-+ Please help **review open pull requests**.
+3. Please help **review open pull requests**.
 Even if you don't fully know the topic, the dialogue will often be productive.
 As a reviewer, it's helpful to note the type of review you performed: did you test the code, look it over, or are you just supporting the concept?
   
-+ Repository maintainers are encouraged to [squash merge](https://help.github.com/articles/about-pull-request-merges/#squash-and-merge-your-pull-request-commits) pull requests when appropriate.
+4. Repository maintainers are encouraged to [squash merge](https://help.github.com/articles/about-pull-request-merges/#squash-and-merge-your-pull-request-commits) pull requests when appropriate.
 This will compact all of the commits into one, helping keep the commit history clean.
 
 **Happy contributing!**
