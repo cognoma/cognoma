@@ -6,7 +6,7 @@ Project Cognoma is an open source community-based project.
 Beyond our immediate scientific aspirations, we want to engage as many individuals as possible in doing cool work.
 Project Cognoma is a place to learn and grow as a community.
 So don't be shy.
-Cognoma wants your contribution!
+Cognoma wants [your contribution](https://opensource.guide/how-to-contribute/ "How to Contribute to Open Source · Open Source Guides")!
 
 ## Background
 
@@ -141,11 +141,11 @@ One feature, one branch, one pull request!
 2. Open incomplete pull requests but put WIP in the title for "work in progress".
 This enables early stage feedback to save time later and helps coordinate efforts.
 Once you feel the pull request is ready, remove WIP from the title.
-  
+
 3. Please help **review open pull requests**.
 Even if you don't fully know the topic, the dialogue will often be productive.
 As a reviewer, it's helpful to note the type of review you performed: did you test the code, look it over, or are you just supporting the concept?
-  
+
 4. Repository maintainers are encouraged to [squash merge](https://help.github.com/articles/about-pull-request-merges/#squash-and-merge-your-pull-request-commits) pull requests when appropriate.
 This will compact all of the commits into one, helping keep the commit history clean.
 
