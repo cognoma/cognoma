@@ -2,32 +2,97 @@
 
 ## Project Philosophy
 
-Project Cognoma is an open source community-based project. Beyond our immediate scientific aspirations, we want to engage as many individuals as possible in doing cool work. Project Cognoma is a place to learn and grow as a community. So don't be shy. We want your contribution. Given the nature of open source development, not all contributions can be included … but all will be appreciated and help the project bloom.
+Project Cognoma is an open source community-based project. Beyond our immediate scientific aspirations, we want to engage as many individuals as possible in doing cool work. Project Cognoma is a place to learn and grow as a community. So don't be shy. Cognoma wants your contribution!
+
+## Background
+
+Git is a version control system. It allows you to create repositories to track the contents of a directory over time. Git was designed for collaborative software development.
+
+GitHub is a cloud hosting service for git repositories. It provides additional features for repositories, including a web interface, issues, and a pull request framework for suggesting changes.
 
 ## Issues
 
-We use GitHub Issues for a wide range of tasks including bug reports, feature requests, planning, and general forum. Don't worry about whether your use of GitHub Issues is legitimate, but do try to pick the best [repository](https://github.com/cognoma "Repositories of the Cognoma Organization") to file your issue under.
+We use [GitHub Issues](https://guides.github.com/features/issues/) to discuss everything and anything including bug reports, feature requests, brainstorming, and questions. New issues should be opened on the most relevant [repository](https://github.com/cognoma "Repositories of the Cognoma Organization"). Before opening a new issue, please search through existing issues to avoid duplication. However, to keep discussion focused, it's better to open a new issue than divert the topic of an existing one. You can always link to related issues for context.
 
-## Pull Requests
+## Contribution Workflow
 
-Project Cognoma operates on a pull request model. For the `cognoma/cognoma` repository, all changes should be submitted via [pull request](https://help.github.com/articles/using-pull-requests/ "GitHub · Using pull requests"). Component projects (e.g. `cognoma/django-cognoma`) may define their own pull request models to facilitate emergency fixes if required. We also encourage you to comment on and review open pull requests.
+Contributions happen through _pull requests_, where contributors propose changes to Cognoma repositories. This section will describe the pull request workflow.  We'll use the [`cognoma/sandbox`](https://github.com/cognoma/sandbox) repository, which is designed for practicing this workflow, as an example. Finally, let's pretend your GitHub username is `username`.
 
-To keep the commit history clean, we may ask you to [rebase your pull request](https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request "How to Rebase a Pull Request") or squash certain commits. If you don't know what this means, we'll help you through the process.
+To create a pull request, you will first to make a change. Since you can't write directly to `cognoma/sandbox` or other Cognoma repositories, you'll need [to fork](https://help.github.com/articles/fork-a-repo/) `cognoma/sandbox` through the GitHub interface. Forking `cognoma/sandbox` will create `username/sandbox`, a personal copy of the `sandbox` repository on your GitHub.
 
-## Peer Review
+Next, you'll need to clone `username/sandbox`, which downloads a copy to your computer. In a terminal, run:
 
-All pull requests undergo peer review in which project participants review the changes. Reviewers may suggest modifications or even note their disapproval. Reviewers can note their approval by commenting along the lines of ":+1:", "looks good to me", or "approved". As a reviewer, it's helpful to note the type of review you performed: did you test the code, look it over, or are you just supporting the concept?
+```sh
+# Clone your fork locally
+git clone https://github.com/username/sandbox
 
-Before a repository maintainer merges a pull request, there must be at least one affirmative review. If there is any unaddressed criticism or disapproval, a repository maintainer will determine how to proceed and may wait for additional feedback.
+# Change directory into the new repository
+cd sandbox
+
+# Add the original cognoma repository as a remote repository named upstream
+git remote add upstream https://github.com/cognoma/sandbox.git
+```
+
+The final command makes git aware of `cognoma/sandbox`, so you can retrieve upstream changes in the future by running `git fetch upstream`.
+
+Now you have a local directory of the git repository. Any changes to the contents of the directory can now be tracked using git. But before you make your desired change, we recommend creating a branch. When you clone a repository, you will, by default, be on the `master` branch. However, you don't want to make changes on your `master` branch, since it's best to keep it synced with the `upstream` repository. Therefore, you will create a new branch for making your change. So say I wanted to add my name to `cognoma/sandox`, I would create a new branch named `add-username` with the following command:
+
+```sh
+# Create a new branch named add-username and switch to it
+git checkout --branch add-username
+```
+
+Now you will be on your `add-username` branch. You should now make your change, which in this example will be adding a new file but can also be modifying an existing file. Let's say you create the file `people/username.md` in your text editor of choice. Now you will have to stage your change by running:
+
+```sh
+# Show what changes git detects.
+# Not essential but good practice as it may alert you to an issue.
+git status
+
+# Add the file you've created
+git add people/username.md
+```
+
+Next you will have to make a commit, which takes a snapshot of everything that's been staged (using `git add` above). To commit, run `git commit`. A text editor should appear that allows you to write a [commit message](https://chris.beams.io/posts/git-commit/) where you should describe the changes in the commit. If all succeeds, you will have added to the git repository and your commit will be visible when you run `git log`.
+
+Next you will push your commit to GitHub, which means add it to `username/sandbox` on GitHub. To do this, run:
+
+```sh
+# This will only have to be run once per computer
+# It adopts the Git 2.0, removing a confusing message
+git config --global push.default simple
+
+# Push your current branch to GitHub
+# If this is the first time you're pushing this branch,
+# you will receive an error suggesting you specify --set-upstream.
+# If so, use the suggested command. Then future git push attempts will work.
+git push
+```
+
+Now you are ready to create your [pull request](https://help.github.com/articles/about-pull-requests/). The GitHub webpage for either `cognoma/sandbox` or `username/sandbox` should have a new button to "Compare & pull request." Click it and write a title and description for your requested changes. Then submit. Soon (hopefully), another Cognoma contributor will review your pull request. Usually, pull requests will require some changes before they are ready to merge (incorporate into Cognoma repository). You can add additional changes to a pull request by adding commits to the branch its based on, which is this example is `add-username`.
+
+Once your pull request passes review, it will be merged by a repository maintainer. Before starting on any new pull requests, you will want to sync your fork, so you're not starting from an outdated version of the codebase, by running:
+
+```
+# Fetch all new changes on the cognoma repo
+git fetch upstream
+
+# Make sure you're on your master branch.
+git checkout master
+
+# Fast forward your master branch with upstream changes.
+git merge --no-ff upstream/master
+```
+
+### Pull request advice
+
+1. Focus a pull request on a single feature. Smaller pull requests are easier to review and will be thus get merged quicker. If you want to change multiple things, create multiple pull requests.
++ Open incomplete pull requests but put WIP in the title for "work in progress". This enables early stage feedback to save time later and helps coordinate efforts. Once you feel the pull request is ready, remove WIP from the title.
++ Please help review open pull requests. Even if you don't fully know the topic, the dialogue will often be productive. As a reviewer, it's helpful to note the type of review you performed: did you test the code, look it over, or are you just supporting the concept?
++ Repository maintainers are encouraged to squash merge pull requests when appropriate. This will compact all of the commits into one, heling keep the commit history clean.
 
 **Happy contributing!**
 
-***
+## Maintainers
 
-_Note: You do not have to read the following information to contribute._
-
-## Commit Access
-
-Currently, [members](https://github.com/orgs/cognoma/people "Cognoma People") of the `cognoma` GitHub organization have commit access on all [cognoma repositories](https://github.com/cognoma). However, our goal is to transition to sustainable project development without the direct need for organization involvement. Therefore, organization members will grant (and revoke) commit access on a per repository level. For example, a Django developer working on [`cognoma/django-cognoma`](https://github.com/cognoma/django-cognoma) will receive commit access to `cognoma/django-cognoma` but not necessarily `cognoma/cognoma`. Commit access will be extended based on a history of positive involvement in the project.
-
-The primary purpose of commit access is for merging pull requests. The committer should use their best judgment on how how much review is necessary for a given pull request. For some pull requests, a single individual with commit access may be able to fully review a pull request. Commit access may also be used for small or urgent changes as specified by the repository-specific `CONTRIBUTING.md`. If you think Project Cognoma would benefit from granting you commit access, please contact an [organization member](https://github.com/orgs/cognoma/people "Cognoma People"). However, please don't request commit access until you've accumulated a history of involvement in the project.
+Maintainers are individuals with commit access to Cognoma repositories, who are responsible for reviewing and merging pull requests. In addition, maintainers help keep repositories organized and issues up to date. Maintainers are selected based on a sustained, positive history of contribution to Cognoma and mastery of the GitHub-based workflow.
