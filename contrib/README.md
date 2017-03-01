@@ -11,5 +11,6 @@ The total number of contributions per user is stored in [`contributor-summary.ts
 To update contribution information, run the following from this directory:
 
 ```sh
-jupyter nbconvert --inplace --execute contrib.ipynb
+jupyter nbconvert --inplace --execute --ExecutePreprocessor.timeout=-1 contrib.ipynb
+jupyter nbconvert --to=script contrib.ipynb
 ```
