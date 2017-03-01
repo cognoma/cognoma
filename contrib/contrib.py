@@ -60,7 +60,7 @@ contrib_df = concat_queries(format_url, kwargs_list)
 contrib_plot_df = (contrib_df
     .pivot_table('contributions', 'repo_name', 'login', fill_value=0)
 )
-cmap = seaborn.cubehelix_palette(light=1, as_cmap=True, gamma=1.3)
+cmap = seaborn.cubehelix_palette(light=1, as_cmap=True, gamma=15)
 ax = seaborn.heatmap(contrib_plot_df, square=True, linewidths=0.5, cmap=cmap, linecolor='#d3d3d3')
 #ax.xaxis.set_ticks_position('top')
 #ax.xaxis.set_label_position('top')
