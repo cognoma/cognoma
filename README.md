@@ -12,7 +12,7 @@ The project is composed of four teams with their own corresponding repositories:
 |-----------|--------------|-------------|
 | Cancer Data | [`cancer-data`](https://github.com/cognoma/cancer-data), [`genes`](https://github.com/cognoma/genes), [`figshare`](https://github.com/cognoma/figshare) | processing the underlying cancer data to the formats required for this project. |
 | Machine Learning | [`machine-learning`](https://github.com/cognoma/machine-learning), [`cognoml`](https://github.com/cognoma/cognoml) | building classifiers to predict mutation status from gene expression data. |
-| Backend | [`core-service`](https://github.com/cognoma/core-service), [`task-service`](https://github.com/cognoma/task-service), [`ml-workers`](https://github.com/cognoma/ml-workers) | creating the infrastructure to power the webapp and glue the components together. |
+| Backend | [`core-service`](https://github.com/cognoma/core-service), [`task-service`](https://github.com/cognoma/task-service), [`ml-workers`](https://github.com/cognoma/ml-workers), [`infrastructure`](https://github.com/cognoma/infrastructure) | creating the infrastructure to power the webapp and glue the components together. |
 | Frontend | [`frontend`](https://github.com/cognoma/frontend), [`uiux`](https://github.com/cognoma/uiux), [`cognoma.github.io`](https://github.com/cognoma/cognoma.github.io) | building the webapp that users interact with. |
 
 ## New Here?
