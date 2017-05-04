@@ -62,7 +62,7 @@ So say I wanted to add my name to `cognoma/sandox`, I would create a new branch 
 
 ```sh
 # Create a new branch named add-username and switch to it
-git checkout --branch add-username
+git checkout -b add-username
 ```
 
 Now you will be on your `add-username` branch.
