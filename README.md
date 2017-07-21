@@ -25,7 +25,8 @@ We hold project meetups. Our usual meeting spot is at Industrious (where CandiDa
 
 | 📅 Date | ⌚ Time | 🗺 Location | ℹ️ Meetup Details | 💰 Sponsor |
 |--------|---------|-----------|-----------|-------------|
-| Tuesday, July 11, 2017 | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/241172890/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
+| Tuesday, August 15, 2017 | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/241916652/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
+| ~~Tuesday, July 11, 2017~~ | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/241172890/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
 | ~~Tuesday, June 27, 2017~~ | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/240560903/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
 | ~~Tuesday, May 30, 2017~~ | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/239701435/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
 | ~~Tuesday, April 25, 2017~~ | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/239416274/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
