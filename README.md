@@ -64,9 +64,22 @@ See the [guidelines for contributing](CONTRIBUTING.md) for more information.
 
 Cognoma relies on our generous community maintainers to assist with contributions. Thanks to the following maintainers for their help:
 
-+ **Cancer Data**: Claire McLeod ([@**clairemcleod**](https://github.com/clairemcleod))
-+ **Machine Learning**: Jesse Prestwood-Taylor ([@**jessept**](https://github.com/jessept)), Yichuan Liu ([@**yl565**](https://github.com/yl565))
-+ **Backend**: Andrew Madonna ([@**awm33**](https://github.com/awm33)), Derek Goss ([@**dcgoss**](https://github.com/dcgoss))
-+ **Frontend**: Benjamin Dolly ([@**bdolly**](https://github.com/bdolly))
-+ **Community**: Karin Wolok ([@**KarinSpiderwoman**](https://github.com/KarinSpiderwoman))
-+ **Wildcards**: Gregory Way ([@**gwaygenomics**](https://github.com/gwaygenomics)), Casey Greene ([@**cgreene**](https://github.com/cgreene)), Daniel Himmelstein ([@**dhimmel**](https://github.com/dhimmel))
++ **Cancer Data**:
+Claire McLeod ([@**clairemcleod**](https://github.com/clairemcleod))
++ **Machine Learning**:
+Patrick Miller ([@**patrick-miller**](https://github.com/patrick-miller)),
+Ryan Velazquez ([@**rdvelazquez**](https://github.com/rdvelazquez)),
+Jesse Prestwood-Taylor ([@**jessept**](https://github.com/jessept)),
+Yichuan Liu ([@**yl565**](https://github.com/yl565))
++ **Backend**:
+Derek Goss ([@**dcgoss**](https://github.com/dcgoss)),
+Andrew Madonna ([@**awm33**](https://github.com/awm33)),
+Kurt Wheeler ([@**kurtwheeler**](https://github.com/kurtwheeler))
++ **Frontend**:
+Benjamin Dolly ([@**bdolly**](https://github.com/bdolly))
++ **Community**:
+Karin Wolok ([@**KarinSpiderwoman**](https://github.com/KarinSpiderwoman))
++ **Wildcards**:
+Daniel Himmelstein ([@**dhimmel**](https://github.com/dhimmel)),
+Gregory Way ([@**gwaygenomics**](https://github.com/gwaygenomics)),
+Casey Greene ([@**cgreene**](https://github.com/cgreene))
