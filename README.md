@@ -2,7 +2,10 @@
 
 _Putting machine learning in the hands of cancer biologists._
 
-Project Cognoma is an open source project to create a webapp for analyzing cancer data. We're a community-driven philanthropic project that began as a collaboration between the [Greene Lab](http://www.greenelab.com/ "Greene Lab at Penn"), [DataPhilly](https://www.meetup.com/DataPhilly/ "DataPhilly Meetup"), and [Code for Philly](https://codeforphilly.org/ "Code for Philly"). Our contributors are primarily based in the Philadelphia area, but anyone anywhere is welcome. This GitHub repository is the administrative and informational home of Cognoma.
+Project Cognoma is an open source project to create a webapp for analyzing cancer data.
+We're a community-driven philanthropic project that began as a collaboration between the [Greene Lab](http://www.greenelab.com/ "Greene Lab at Penn"), [DataPhilly](https://www.meetup.com/DataPhilly/ "DataPhilly Meetup"), and [Code for Philly](https://codeforphilly.org/ "Code for Philly").
+Our contributors are primarily based in the Philadelphia area, but anyone anywhere is welcome.
+This GitHub repository is the administrative and informational home of Cognoma.
 
 ## Teams and Repositories
 
@@ -17,11 +20,14 @@ The project is composed of four teams with their own corresponding repositories:
 
 ## New Here?
 
-If you are a new user and would like to get involved, please [introduce yourself](https://github.com/cognoma/cognoma/issues/2 "Issue #2: Introduce yourself here to get involved"). Contributions are made through GitHub, so if you are unfamiliar with git or GitHub, check out the [`sandbox`](https://github.com/cognoma/sandbox) for a place to learn by doing.
+If you are a new user and would like to get involved, please [introduce yourself](https://github.com/cognoma/cognoma/issues/2 "Issue #2: Introduce yourself here to get involved").
+Contributions are made through GitHub, so if you are unfamiliar with git or GitHub, check out the [`sandbox`](https://github.com/cognoma/sandbox) for a place to learn by doing.
 
 ## Meetup Schedule
 
-We hold project meetups. Our usual meeting spot is at Industrious (where CandiDate is located). The address is [230 S Broad St, Floor 17, Philadelphia](https://goo.gl/maps/Anoo4SUE9At "Google Maps").
+We hold project meetups.
+Our usual meeting spot is at Industrious (where CandiDate is located).
+The address is [230 S Broad St, Floor 17, Philadelphia](https://goo.gl/maps/Anoo4SUE9At "Google Maps").
 
 | 📅 Date | ⌚ Time | 🗺 Location | ℹ️ Meetup Details | 💰 Sponsor |
 |--------|---------|-----------|-----------|-------------|
@@ -54,7 +60,8 @@ We hold project meetups. Our usual meeting spot is at Industrious (where CandiDa
 
 ## Contributing
 
-Community contributions are the driving force behind Cognoma. The heatmap below shows which users have contributed to which repositories:
+Community contributions are the driving force behind Cognoma.
+The heatmap below shows which users have contributed to which repositories:
 
 ![Contribution Heatmap](contrib/contribution-heatmap.png "Intensity shows the number of contributions") 
 
@@ -62,7 +69,8 @@ See the [guidelines for contributing](CONTRIBUTING.md) for more information.
 
 ## Maintainers
 
-Cognoma relies on our generous community maintainers to assist with contributions. Thanks to the following maintainers for their help:
+Cognoma relies on our generous community maintainers to assist with contributions.
+Thanks to the following maintainers for their help:
 
 + **Cancer Data**:
 Claire McLeod ([@**clairemcleod**](https://github.com/clairemcleod))
