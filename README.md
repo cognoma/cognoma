@@ -31,7 +31,8 @@ The address is [230 S Broad St, Floor 17, Philadelphia](https://goo.gl/maps/Anoo
 
 | 📅 Date | ⌚ Time | 🗺 Location | ℹ️ Meetup Details | 💰 Sponsor |
 |--------|---------|-----------|-----------|-------------|
-| Tuesday, August 15, 2017 | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/241916652/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
+| To Be Determined | 🎉 | 🎉 | Launch Party | 🎉 |
+| ~~Tuesday, August 15, 2017~~ | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/241916652/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
 | ~~Tuesday, July 11, 2017~~ | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/241172890/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
 | ~~Tuesday, June 27, 2017~~ | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/240560903/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
 | ~~Tuesday, May 30, 2017~~ | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/239701435/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
