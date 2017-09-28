@@ -31,7 +31,7 @@ The address is [230 S Broad St, Floor 17, Philadelphia](https://goo.gl/maps/Anoo
 
 | 📅 Date | ⌚ Time | 🗺 Location | ℹ️ Meetup Details | 💰 Sponsor |
 |--------|---------|-----------|-----------|-------------|
-| To Be Determined | 🎉 | 🎉 | Launch Party | 🎉 |
+| Wednesday, October 11, 2017 | 6:00 PM | [MilkBoy](http://www.milkboyphilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/243724362/) | [Alex’s Lemonade Stand Foundation](https://www.alexslemonade.org/) |
 | ~~Tuesday, August 15, 2017~~ | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/241916652/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
 | ~~Tuesday, July 11, 2017~~ | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/241172890/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
 | ~~Tuesday, June 27, 2017~~ | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/240560903/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
