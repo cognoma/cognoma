@@ -7,6 +7,12 @@ We're a community-driven philanthropic project that began as a collaboration bet
 Our contributors are primarily based in the Philadelphia area, but anyone anywhere is welcome.
 This GitHub repository is the administrative and informational home of Cognoma.
 
+The Meetup phase of Cognoma is now complete!
+The [Childhood Cancer Data Lab](https://www.ccdatalab.org/) of [Alex's Lemonade Stand Foundation](https://www.alexslemonade.org/) will be providing longterm maintenance.
+Public **contributions are still welcome** through GitHub.
+The main priority is enhancements and bug fixes to improve http://cognoma.org.
+For a nice overview of the project, see its [coverage by The Philadelphia Citizen](http://thephiladelphiacitizen.org/code-for-cancer/ "Code for Cancer by Roxanne Shepelavy. Philadelphia Citizen. 2017-10-25").
+
 ## Teams and Repositories
 
 The project is composed of four teams with their own corresponding repositories:
@@ -31,7 +37,7 @@ The address is [230 S Broad St, Floor 17, Philadelphia](https://goo.gl/maps/Anoo
 
 | 📅 Date | ⌚ Time | 🗺 Location | ℹ️ Meetup Details | 💰 Sponsor |
 |--------|---------|-----------|-----------|-------------|
-| Wednesday, October 11, 2017 | 6:00 PM | [MilkBoy](http://www.milkboyphilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/243724362/) | [Alex’s Lemonade Stand Foundation](https://www.alexslemonade.org/) |
+| ~~Wednesday, October 11, 2017~~ | 6:00 PM | [MilkBoy](http://www.milkboyphilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/243724362/) | [Alex’s Lemonade Stand Foundation](https://www.alexslemonade.org/) |
 | ~~Tuesday, August 15, 2017~~ | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/241916652/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
 | ~~Tuesday, July 11, 2017~~ | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/241172890/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
 | ~~Tuesday, June 27, 2017~~ | 6:00 PM | [CandiDate](http://www.candidatephilly.com/) | [DataPhilly](https://www.meetup.com/DataPhilly/events/240560903/) | [Penn Institute for Biomedical Informatics](http://upibi.org/) |
